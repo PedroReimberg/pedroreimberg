@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/pedroreimberg/" target="_blank">
-    <img src="https://i.imgur.com/ubl6xbK.png" alt="Banner" width="60%"/>
+    <img src="https://i.imgur.com/ubl6xbK.png" alt="Banner" width="90%"/>
   </a>
 </div>
-
 
 <h1 align='center'>
   Hi there 👋 I'm Pedro!
@@ -24,9 +23,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<p align='center'>
+<h2 align='center'>
   📨 Reach out to me here 📨
-</p>
+</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/pedroreimberg/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,50 +40,48 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreimberg&show_icons=true&theme=transparent&locale=en" width="350"></a>
 </p>
 
-<p align='center'>
+<h2 align='center'>
   🖥️ My Setup:<br/><br/>
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB_3600MHz-0071C5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-RTX_3060_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+</h2>
 
 <details>
   <summary>🧾 Professional Summary: </summary>
   <h2>👤 About Me</h2>
   <p>
-    I am a professional specialized in Cloud Computing, with a degree in Computer Science and solid experience in Technical Support and IT Infrastructure. I hold the AZ-900 and AI-900 certifications, which validate my foundational knowledge in cloud services and artificial intelligence on Azure. Committed to continuous learning, I have been expanding my expertise in Azure, Infrastructure, Terraform, Microsoft 365, and AI, aiming to earn the MS-900, AZ-104, and AZ-305 certifications and further deepen my skills in Cloud Infrastructure and Operations.
-  </p>
+  I am a professional specialized in <strong>Cloud Computing</strong>, with a degree in <strong>Computer Science</strong> and solid experience in <strong>IT Infrastructure</strong> and <strong>Technical Support</strong>. I hold the <strong>AZ-900</strong> and <strong>AI-900</strong> certifications, which validate my foundational knowledge in <strong>Cloud Services</strong> and <strong>Artificial Intelligence</strong> on <strong>Azure</strong>. Committed to <strong>Continuous Learning</strong>, I have been expanding my expertise in <strong>Azure</strong>, <strong>Infrastructure</strong>, <strong>Terraform</strong>, <strong>Microsoft 365</strong>, and <strong>AI</strong>, aiming to earn the <strong>MS-900</strong>, <strong>AZ-104</strong>, and <strong>AZ-305</strong> certifications and further deepen my skills in <strong>Cloud Infrastructure</strong> and <strong>Operations</strong>.
+</p>
 
 <h2>💻 Projects</h2>
-<ul>
-  <li>
-    <p>
-      <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-      <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-      <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-      <img align="left" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-      <img align="left" src="https://img.shields.io/badge/GitHub_Pages-000000?logo=github&logoColor=white" />
-    </p>
-    <strong>🌐 WebDevelopment Portfolio Website</strong><br>
-    📆 January 2024 - March 2024<br><br>
-    A responsive website showcasing my main web development projects, dynamically loading project information via JSON files and offering smooth navigation between sections. Built with HTML5 and CSS, it uses JavaScript for DOM manipulation and JSON data handling. The entire code history is managed on GitHub, and the website is hosted on GitHub Pages.
-    <br>
-    <a href="https://github.com/PedroReimberg/dio-js-developer-portfolio" target="_blank">🔗 View the repository on GitHub</a>
-  </li>
-</ul>
+  <p>
+    <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+    <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+    <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img align="right" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </p>
 
+  <ul>
+    <li>
+      <strong><span>🌐 WebDevelopment Portfolio Website</span></strong><br>
+      <strong style="font-size: 0.9em;">📆 January 2024 - March 2024</strong>
+      A responsive website showcasing my main web development projects, dynamically loading project information via JSON files and offering smooth navigation between sections. Built with HTML5 and CSS, it uses JavaScript for DOM manipulation and JSON data handling. The entire code history is managed on GitHub, and the website is hosted on GitHub Pages.
+    <a href="https://github.com/PedroReimberg/dio-js-developer-portfolio" target="_blank">🔗 View the repository on GitHub</a>
+    </li>
+  </ul>
 
 <h2>🎓 Education</h2>
   <ul>
     <li>
-      <strong>📖 Bachelor’s Degree in Computer Science</strong><br>
-      📆 2021 - 2024<br>
-      📍 <strong>Universidade Paulista (UNIP)</strong> - São Paulo, Brazil
+      <strong>Bachelor’s Degree in Computer Science</strong><span style="font-size: 0.8em;"> 2021 - 2024</span><br/>
+      <strong>Universidade Paulista (UNIP)</strong><span style="font-size: 0.8em;"> São Paulo, Brazil</span>
+      
     </li>
   </ul>
 
-  <h2>💼 Professional Experience</h2>
+<h2>💼 Professional Experience</h2>
   <p>
     <img align="right" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
     <img align="right" src="https://img.shields.io/badge/Networking-0071C5?logo=cisco&logoColor=white" />
@@ -93,8 +90,8 @@
 
   <ul>
     <li>
-       <strong><span>🧑‍💻 IT Support and Infrastructure Intern</span></strong><br>
-       <strong>📍 Prefeitura Municipal de Embu-Guaçu</strong> – Embu-Guaçu/SP, Brazil<br>
+       <strong>🧑‍💻 IT Support and Infrastructure Intern</strong><br>
+       📍 Prefeitura Municipal de Embu-Guaçu<span style="font-size: 0.8em;"> Embu-Guaçu/SP, Brazil</span><br>
       📆 2017 - 2018
     </li>
   </ul>

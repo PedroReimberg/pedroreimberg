@@ -77,7 +77,6 @@
     <li>
       <strong>Bachelor’s Degree in Computer Science</strong><span style="font-size: 0.8em;"> 2021 - 2024</span><br/>
       <strong>Universidade Paulista (UNIP)</strong><span style="font-size: 0.8em;"> São Paulo, Brazil</span>
-      
     </li>
   </ul>
 
